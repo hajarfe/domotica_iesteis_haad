@@ -1,2 +1,3 @@
 # domotica_iesteis_haad
-proyecto de una maqueta domotizada
+Proxecto dunha maqueta domotizada.
+Creando un servidor en IoT coa aplicación Home Assistant empregando unha Rasberri Pi 
