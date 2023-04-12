@@ -1,0 +1,10 @@
+#led
+light:
+  - platform: binary
+    name: "Desk Lamp"
+    output: light_output
+
+output:
+  - id: light_output
+    platform: gpio
+    pin: GPIO16
