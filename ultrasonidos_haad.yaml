@@ -1,6 +1,0 @@
-#ultrasonidos
-sensor:
-  - platform: ultrasonic
-    trigger_pin: GPIO19
-    echo_pin: GPIO18
-    name: "Ultrasonic Sensor"
