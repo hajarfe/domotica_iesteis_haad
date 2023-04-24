@@ -1,0 +1,14 @@
+alias: apagar ventilador
+description: ""
+trigger:
+  - platform: numeric_state
+    entity_id: sensor.esp32_iot3_temperaturahaad
+    below: 19.9
+condition: []
+action:
+  - service: switch.turn_off
+    data: {}
+    target:
+      entity_id: switch.esp32_iot3_relehaad
+mode: single
+

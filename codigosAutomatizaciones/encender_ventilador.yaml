@@ -1,0 +1,13 @@
+alias: encender ventilador
+description: ""
+trigger:
+  - platform: numeric_state
+    entity_id: switch.esp32_iot3_relehaad
+    above: 20
+condition: []
+action:
+  - service: switch.turn_on
+    data: {}
+    target:
+      entity_id: switch.esp32_iot3_relehaad
+mode: single
