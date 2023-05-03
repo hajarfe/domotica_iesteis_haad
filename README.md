@@ -9,7 +9,8 @@ Todo isto o facemos para colocar todos os elementos deste proxecto cos seus prog
 
 
 MAPA MENTAL:
-![Uploading Mapa Mental Hajar.jpg…]()
+![Mapa Mental Hajar](https://user-images.githubusercontent.com/129266913/235865338-8600718f-c782-473a-ba8c-d69ce5144ca8.jpg)
+
 
 
 FLUJO DE TRABAJO:
