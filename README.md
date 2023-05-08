@@ -6,7 +6,7 @@ Logo necesitamos conectar os sensores e os actuadores aos GPIO das placas (ESP32
 
 Todo isto o facemos para colocar todos os elementos deste proxecto cos seus programas e automatizacións para recrear a maqueta do IES de Teis ou unha casa.
 
-IMAGEN MAQUETA:
+IMAXEN MAQUETA:
 ![imaxemaqueta](https://user-images.githubusercontent.com/129266913/233950324-ab970a65-fd4b-49c6-83c7-892e3d7ab155.png)
 
 
@@ -15,5 +15,5 @@ MAPA MENTAL:
 
 
 
-FLUJO DE TRABAJO:
+FLUXO DE TRABALLO:
 ![flujo_trabajo_hajar](https://user-images.githubusercontent.com/129266913/235865213-222efcf4-e78b-4c08-a907-f43ed2abe9aa.jpg)
